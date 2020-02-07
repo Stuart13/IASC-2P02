@@ -1,3 +1,11 @@
-# Hello World
+# IASC 2P02 | Stuart McCulley
 
-This is the readme file for my IASC 2P02 web portfolio
+## About Me
+
+I am a student at Brock University in the Interactive Arts and Science program.  This site showcases assignments and projects that I have created.
+(If you google Kramdown flavoured markdown you'll get the styleguide)
+
+![](Bioshock.webp)
+
+## Blog Post
+First sentence of my blog post goes here.
