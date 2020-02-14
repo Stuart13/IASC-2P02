@@ -14,4 +14,5 @@ I am a student at Brock University in the Interactive Arts and Science program. 
 ![](imagez/Rapture.jpg)
 
 ## Blog Post
+H-Hewwo?? Mistew Obama??
 First sentence of my blog post goes here... [continue reading](blog)
