@@ -2,7 +2,8 @@
 
 ## About Me
 
-I am a student at Brock University in the Interactive Arts and Science program.  This site showcases assignments and projects that I have created.
+I am a student at Brock University in my second year of the Interactive Arts and Science program.  I focus on creative writing and its application through different mediums in digital media.
+
 (If you google Kramdown flavoured markdown you'll get the styleguide)
 * pwd = print working directory, tells you where you are
 * ls = list, lists everything in the folder you are in
@@ -13,6 +14,5 @@ I am a student at Brock University in the Interactive Arts and Science program. 
 
 ![](imagez/Rapture.jpg)
 
-## Blog Post
-H-Hewwo?? Mistew Obama??
-First sentence of my blog post goes here... [continue reading](blog)
+## IASC 2P02 Blog Post (Put blog post title here?)
+First sentence of blog post goes here... [continue reading](blog)
