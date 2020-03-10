@@ -1,4 +1,4 @@
-# The Digital Humanist Perspective on Transdisciplinary Studies
+## The Digital Humanist Perspective on Transdisciplinary Studies
   
   
   As members of a discipline that has been through great developmental leaps throughout the years, digital humanists have begun to truly delve into the complexities that make up human-technology interaction from a myriad of perspectives.  These include mainly qualitative approaches that focus on the idea of interpreting human behaviour and influence regarding different texts among media.  As important as interpreting the structure and form of specific tools and behaviours can be, it is also worth noting the insights gained from hermeneutically exploring the same tools and fields of research combined with a fundamentally different academic lens.  As such, it is important to recognize the benefits of transdisciplinary studies among digital humanists and other disciplines, and how enveloping oneself into a new discourse community can influence one’s research, perspectives, and performance in their own field of study.  As much as digital humanists like to focus on the qualitative, it is the different interpretations of the quantitative “fact” in the scientific methodologies that allow for expansive research opportunities when considered.
@@ -13,12 +13,7 @@
   Ramsay spoke of the importance computing shares with text analysis in his article *Reading Machines: Toward An Algorithmic Criticism*.  He outlined that if text analysis were to evolve past being a fact-checker, it must “assist the critic in the unfolding of interpretative possibilities” (10).  He then proceeded to mention the ease at which computation could provide such assistance, through its ability to sort dialogue based on “most distinctive to least distinctive term” (11).  This process is important, as Ramsay is highlighting the interpretive doors studying through different disciplinary lenses can afford digital humanists.
   
   
-###### Figure 1: a graph representing the most common terms across digital humanist articles
-<iframe style='width: 509px; height: 362px;' src='https://voyant-tools.org/tool/Trends/?query=humanities&query=novel&query=digital&query=time&query=data&corpus=6b7bc844549713874b540a98b56cad55'></iframe>
 
-
-###### Figure 2: a graph representing the commonality of scientific terms across digital humanist articles
-<iframe style='width: 509px; height: 362px;' src='https://voyant-tools.org/tool/Trends/?query=scien*&query=data&query=qualitative&query=quantitative*&query=algorithm*&corpus=6b7bc844549713874b540a98b56cad55'></iframe>
 
 
   Figure 1 above displays the most common terms across five digital humanist articles.  When compared with figure 2, which displays the commonality of scientific terms across the same articles.  Ramsay is the outlier in his use of scientific and computational approaches to tackle a humanist action such as text analysis.
