@@ -13,7 +13,12 @@
   Ramsay spoke of the importance computing shares with text analysis in his article *Reading Machines: Toward An Algorithmic Criticism*.  He outlined that if text analysis were to evolve past being a fact-checker, it must “assist the critic in the unfolding of interpretative possibilities” (10).  He then proceeded to mention the ease at which computation could provide such assistance, through its ability to sort dialogue based on “most distinctive to least distinctive term” (11).  This process is important, as Ramsay is highlighting the interpretive doors studying through different disciplinary lenses can afford digital humanists.
   
   
+###### Figure 1: a graph representing the most common terms across digital humanist articles
+<iframe style='width: 509px; height: 362px;' src='https://voyant-tools.org/tool/Trends/?query=humanities&query=novel&query=digital&query=time&query=data&corpus=6b7bc844549713874b540a98b56cad55'></iframe>
 
+
+###### Figure 2: a graph representing the commonality of scientific terms across digital humanist articles
+<iframe style='width: 509px; height: 362px;' src='https://voyant-tools.org/tool/Trends/?query=scien*&query=data&query=qualitative&query=quantitative*&query=algorithm*&corpus=6b7bc844549713874b540a98b56cad55'></iframe>
 
 
   Figure 1 above displays the most common terms across five digital humanist articles.  When compared with figure 2, which displays the commonality of scientific terms across the same articles.  Ramsay is the outlier in his use of scientific and computational approaches to tackle a humanist action such as text analysis.
