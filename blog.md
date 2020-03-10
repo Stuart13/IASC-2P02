@@ -13,22 +13,10 @@ This opens many different avenues of interpretation that would usually be ignore
   
   
 ###### Figure 1: a graph representing the most common terms across digital humanist articles
-<!--	Exported from Voyant Tools (voyant-tools.org).
-The iframe src attribute below uses a relative protocol to better function with both
-http and https sites, but if you're embedding this into a local web page (file protocol)
-you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
-it depends on this server.
-Feel free to change the height and width values or other styling below: -->
 <iframe style='width: 509px; height: 362px;' src='https://voyant-tools.org/tool/Trends/?query=humanities&query=novel&query=digital&query=time&query=data&corpus=6b7bc844549713874b540a98b56cad55'></iframe>
 
 
 ###### Figure 2: a graph representing the commonality of scientific terms across digital humanist articles
-<!--	Exported from Voyant Tools (voyant-tools.org).
-The iframe src attribute below uses a relative protocol to better function with both
-http and https sites, but if you're embedding this into a local web page (file protocol)
-you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
-it depends on this server.
-Feel free to change the height and width values or other styling below: -->
 <iframe style='width: 509px; height: 362px;' src='https://voyant-tools.org/tool/Trends/?query=scien*&query=data&query=qualitative&query=quantitative*&query=algorithm*&corpus=6b7bc844549713874b540a98b56cad55'></iframe>
 
 
