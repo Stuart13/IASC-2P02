@@ -21,16 +21,13 @@
 <iframe style='width: 509px; height: 362px;' src='https://voyant-tools.org/tool/Trends/?query=scien*&query=data&query=qualitative&query=quantitative*&query=algorithm*&corpus=6b7bc844549713874b540a98b56cad55'></iframe>
 
 
+
   Figure 1 above displays the most common terms across five digital humanist articles.  When compared with figure 2, which displays the commonality of scientific terms across the same articles.  Ramsay is the outlier in his use of scientific and computational approaches to tackle a humanist action such as text analysis.
            
            
   While blending disciplines should become the next step in digital humanities analyses, it does not come without its share of struggles.  For example, the computer scientist and media researcher outlined some of their rough patches to Van Gorp and Bron, mainly surrounding their research habits and levels of understanding.  They spoke about the language barrier between their respective discourse groups. 
 Although the definition of the concepts allowed for streamlined research, it was the act of having to define the concepts in the first place that sowed misunderstandings, such as different interpretations of the word “Snippet” and the function of genre (para. 49-50).  They also learned about the struggles of working with each other from a distance.  Miscommunication was common over email, so they learned that working in the same space to bounce ideas off each other was beneficial (para. 61).  This isn’t possible for all research projects and can pose a problem when it comes to communication.  However, it is the act of overcoming the barriers and truly finding a blend between disciplines that are normally considered separate, which allows researchers to create tools that can truly help others.  
 As proven by the interviewees of Van Gorp and Bron, the path, although tough, is possible.  Digital humanists need to seek new avenues of interpretation to keep their research into human interactions and behaviours fresh, and by exploring transdisciplinary options, perspectives they can’t even dream of can be opened to them.
-
-
-
-
 
 
 Works Cited
